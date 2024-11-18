@@ -9,7 +9,7 @@ I'll be documenting my journey learning essential tools in data science and expe
 
 | Priotity | Description |
 | Priotity | Description | Completion |
-| --- | --- | --- |
+| :---: | :--- | :---: |
 | 1 | NumPy | [x] |
 | 2 | Pandas | [ ] |
 | 3 | MatPlotLib | [ ] |
