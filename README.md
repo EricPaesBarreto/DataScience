@@ -7,14 +7,14 @@ I'll be documenting my journey learning essential tools in data science and expe
 ### To do list:
 (subject to change)
 
-| Priotity | Description | Completion |
-| --- | --- | --- |
-| 1 | NumPy | - [x] |
-| 2 | Pandas | - [ ] |
-| 3 | MatPlotLib | - [ ] |
-| 4 | SeaBorn | - [ ] |
-| 5 | SciKitLearn | - [ ] |
-| 6 | PyTorch | - [ ] |
+| Priotity | Description |
+| --- | --- |
+| 1 |  - [ ] NumPy |
+| 2 |  - [ ] Pandas |
+| 3 | - [ ] MatPlotLib |
+| 4 | - [ ] SeaBorn |
+| 5 | - [ ] SciKitLearn |
+| 6 | - [ ] PyTorch |
 
 ## Links
 
