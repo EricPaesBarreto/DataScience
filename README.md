@@ -7,7 +7,6 @@ I'll be documenting my journey learning essential tools in data science and expe
 ### To do list:
 (subject to change)
 
-| Priotity | Description |
 | Priotity | Description | Completion |
 | :---: | :--- | :---: |
 | 1 | NumPy | ✔️ |
