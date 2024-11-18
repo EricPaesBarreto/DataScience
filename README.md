@@ -9,12 +9,12 @@ I'll be documenting my journey learning essential tools in data science and expe
 
 | Priotity | Description |
 | --- | --- | --- |
-| 1 | NumPy | [x] |
-| 2 | Pandas | [] |
-| 3 | MatPlotLib | [] |
-| 4 | SeaBorn | [] |
-| 5 | SciKitLearn | [] |
-| 6 | PyTorch | [] |
+| 1 | NumPy | - [x] |
+| 2 | Pandas | - [ ] |
+| 3 | MatPlotLib | - [ ] |
+| 4 | SeaBorn | - [ ] |
+| 5 | SciKitLearn | - [ ] |
+| 6 | PyTorch | - [ ] |
 
 ## Links
 
